@@ -15,3 +15,9 @@ Så laver jeg en pull-request på den.
 
 Hvorefter nogen (Det var vist mig, men burde nok have været Lorna) 
 merger mine ændringsforslag ind i stammen af dokumentet.
+
+Lorna godkender andre commits. Det betyder at min fork kommer bagud. Jeg 
+skal så lave en pull request på Github - som jeg godkender og merger på 
+mit eget github repo.
+
+Hvorefter jeg kan pull i git bash, og have en opdateret udgave lokalt.
